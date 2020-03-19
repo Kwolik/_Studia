@@ -1,0 +1,11 @@
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.exe
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.deps.json
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.runtimeconfig.json
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.runtimeconfig.dev.json
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.dll
+D:\_Studia\Algorytmy\Alg2\Alg2\bin\Debug\netcoreapp3.1\Alg2.pdb
+D:\_Studia\Algorytmy\Alg2\Alg2\obj\Debug\netcoreapp3.1\Alg2.csprojAssemblyReference.cache
+D:\_Studia\Algorytmy\Alg2\Alg2\obj\Debug\netcoreapp3.1\Alg2.AssemblyInfoInputs.cache
+D:\_Studia\Algorytmy\Alg2\Alg2\obj\Debug\netcoreapp3.1\Alg2.AssemblyInfo.cs
+D:\_Studia\Algorytmy\Alg2\Alg2\obj\Debug\netcoreapp3.1\Alg2.dll
+D:\_Studia\Algorytmy\Alg2\Alg2\obj\Debug\netcoreapp3.1\Alg2.pdb

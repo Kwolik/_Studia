@@ -1,0 +1,11 @@
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.exe
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.deps.json
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.runtimeconfig.json
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.runtimeconfig.dev.json
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\bin\Debug\netcoreapp3.1\Zbiory miękkie.pdb
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\obj\Debug\netcoreapp3.1\Zbiory miękkie.csprojAssemblyReference.cache
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\obj\Debug\netcoreapp3.1\Zbiory miękkie.AssemblyInfoInputs.cache
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\obj\Debug\netcoreapp3.1\Zbiory miękkie.AssemblyInfo.cs
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\obj\Debug\netcoreapp3.1\Zbiory miękkie.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Zbiory miękkie\Zbiory miękkie\obj\Debug\netcoreapp3.1\Zbiory miękkie.pdb

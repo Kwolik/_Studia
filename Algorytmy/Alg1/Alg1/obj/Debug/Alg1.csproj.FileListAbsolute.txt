@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Alg1\Alg1\bin\Debug\Alg1.exe.config
+C:\Users\student\Desktop\Alg1\Alg1\bin\Debug\Alg1.exe
+C:\Users\student\Desktop\Alg1\Alg1\bin\Debug\Alg1.pdb
+C:\Users\student\Desktop\Alg1\Alg1\obj\Debug\Alg1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Alg1\Alg1\obj\Debug\Alg1.exe
+C:\Users\student\Desktop\Alg1\Alg1\obj\Debug\Alg1.pdb
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\Alg1.exe.config
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\Alg1.exe
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\Alg1.pdb
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\Alg1.csprojAssemblyReference.cache
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\Alg1.exe
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\Alg1.pdb

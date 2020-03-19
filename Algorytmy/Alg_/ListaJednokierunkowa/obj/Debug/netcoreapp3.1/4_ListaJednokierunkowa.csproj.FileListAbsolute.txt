@@ -1,0 +1,11 @@
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.exe
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.deps.json
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.runtimeconfig.json
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.runtimeconfig.dev.json
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.dll
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\bin\Debug\netcoreapp3.1\4_ListaJednokierunkowa.pdb
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\obj\Debug\netcoreapp3.1\4_ListaJednokierunkowa.csprojAssemblyReference.cache
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\obj\Debug\netcoreapp3.1\4_ListaJednokierunkowa.AssemblyInfoInputs.cache
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\obj\Debug\netcoreapp3.1\4_ListaJednokierunkowa.AssemblyInfo.cs
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\obj\Debug\netcoreapp3.1\4_ListaJednokierunkowa.dll
+D:\_Studia\Algorytmy\Alg2\ListaJednokierunkowa\obj\Debug\netcoreapp3.1\4_ListaJednokierunkowa.pdb

@@ -1,0 +1,6 @@
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\1_Wyszukiwania_najwiekszej_liczby.exe.config
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\1_Wyszukiwania_najwiekszej_liczby.exe
+D:\_Studia\Algorytmy\Alg1\Alg1\bin\Debug\1_Wyszukiwania_najwiekszej_liczby.pdb
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\1_Wyszukiwania_najwiekszej_liczby.exe
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\1_Wyszukiwania_najwiekszej_liczby.pdb
+D:\_Studia\Algorytmy\Alg1\Alg1\obj\Debug\1_Wyszukiwania_najwiekszej_liczby.csprojAssemblyReference.cache

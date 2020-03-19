@@ -1,0 +1,17 @@
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\_Studia\Programowanie obiektowe\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2_MarkupCompile.cache
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2_MarkupCompile.lref
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.g.resources
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\_Studia\Programowanie obiektowe\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb

@@ -1,0 +1,17 @@
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+D:\_Studia\Programowanie obiektowe\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\App.g.cs
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator_MarkupCompile.cache
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator_MarkupCompile.lref
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.g.resources
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+D:\_Studia\Programowanie obiektowe\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb

@@ -1,0 +1,11 @@
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.exe
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.deps.json
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.runtimeconfig.json
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.runtimeconfig.dev.json
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.dll
+D:\_Studia\Algorytmy\Alg2\Stos\bin\Debug\netcoreapp3.1\3_Stos.pdb
+D:\_Studia\Algorytmy\Alg2\Stos\obj\Debug\netcoreapp3.1\3_Stos.csprojAssemblyReference.cache
+D:\_Studia\Algorytmy\Alg2\Stos\obj\Debug\netcoreapp3.1\3_Stos.AssemblyInfoInputs.cache
+D:\_Studia\Algorytmy\Alg2\Stos\obj\Debug\netcoreapp3.1\3_Stos.AssemblyInfo.cs
+D:\_Studia\Algorytmy\Alg2\Stos\obj\Debug\netcoreapp3.1\3_Stos.dll
+D:\_Studia\Algorytmy\Alg2\Stos\obj\Debug\netcoreapp3.1\3_Stos.pdb

@@ -1,0 +1,11 @@
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.exe
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.deps.json
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.runtimeconfig.json
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.runtimeconfig.dev.json
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.dll
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\bin\Debug\netcoreapp3.1\2_Notacja_polska.pdb
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\obj\Debug\netcoreapp3.1\2_Notacja_polska.csprojAssemblyReference.cache
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\obj\Debug\netcoreapp3.1\2_Notacja_polska.AssemblyInfoInputs.cache
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\obj\Debug\netcoreapp3.1\2_Notacja_polska.AssemblyInfo.cs
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\obj\Debug\netcoreapp3.1\2_Notacja_polska.dll
+D:\_Studia\Algorytmy\Alg1\2_Notacja_polska\obj\Debug\netcoreapp3.1\2_Notacja_polska.pdb

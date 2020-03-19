@@ -1,0 +1,255 @@
+Enter password:
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 2
+Server version: 5.5.21-log MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2011, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use ludzie;
+Database changed
+mysql> show tables;
+Empty set (0.00 sec)
+
+mysql> create table osoby(
+    -> id_o tinyint unsigned not null auto_increment,
+    -> imie char(12) not null,
+    -> nazwisko char(20) not null,
+    -> wiek tinyint,
+    -> miasto char(32) default "Sosnowiec",
+    -> primary key(id_o))
+    -> engine = innodb
+    -> default character set utf8 collate utf_unicode_ci;
+ERROR 1273 (HY000): Unknown collation: 'utf_unicode_ci'
+mysql>
+mysql> create table osoby(
+    -> id_o tinyint unsigned not null auto_increment,
+    -> imie char(12) not null,
+    -> nazwisko char(20) not null,
+    -> wiek tinyint,
+    -> miasto char(32) default "Sosnowiec",
+    -> primary key(id_o))
+    -> engine = innodb
+    -> default character set utf8 collate utf8_unicode_ci;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> desc osoby;
++----------+---------------------+------+-----+-----------+----------------+
+| Field    | Type                | Null | Key | Default   | Extra          |
++----------+---------------------+------+-----+-----------+----------------+
+| id_o     | tinyint(3) unsigned | NO   | PRI | NULL      | auto_increment |
+| imie     | char(12)            | NO   |     | NULL      |                |
+| nazwisko | char(20)            | NO   |     | NULL      |                |
+| wiek     | tinyint(4)          | YES  |     | NULL      |                |
+| miasto   | char(32)            | YES  |     | Sosnowiec |                |
++----------+---------------------+------+-----+-----------+----------------+
+5 rows in set (0.01 sec)
+
+mysql> create table telefony(
+    -> id_t tinyint unsigned not null auto_increment,
+    -> numer char(9) not null,
+    -> typ enum("stacjonarny","komórkowy") not null
+    -> default "komórkowy",
+    -> operator enum("era","tp","plus","play","heyah") not null,
+    -> primary key(id_t))
+    -> engine = innodb
+    -> default character set utf8 collate utf_unicode_ci;
+ERROR 1273 (HY000): Unknown collation: 'utf_unicode_ci'
+mysql>
+mysql> create table telefony(
+    -> id_t tinyint unsigned not null auto_increment,
+    -> numer char(9) not null,
+    -> typ enum("stacjonarny","komórkowy") not null
+    -> default "komórkowy",
+    -> operator enum("era","tp","plus","play","heyah") not null,
+    -> primary key(id_t))
+    -> engine = innodb
+    -> default character set utf8 collate utf8_unicode_ci;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> desc telefony;
++----------+----------------------------------------+------+-----+-----------+----------------+
+| Field    | Type                                   | Null | Key | Default   | Extra          |
++----------+----------------------------------------+------+-----+-----------+----------------+
+| id_t     | tinyint(3) unsigned                    | NO   | PRI | NULL      | auto_increment |
+| numer    | char(9)                                | NO   |     | NULL      |                |
+| typ      | enum('stacjonarny','komórkowy')        | NO   |     | komórkowy |                |
+| operator | enum('era','tp','plus','play','heyah') | NO   |     | NULL      |                |
++----------+----------------------------------------+------+-----+-----------+----------------+
+4 rows in set (0.02 sec)
+
+mysql>
+mysql> create table teos(
+    -> id_to tinyint unsigned not null auto_increment,
+    -> id_o tinyint unsigned not null,
+    -> id_t tinyint unsigned not null,
+    -> primary key(id_to),
+    -> foreign key(id_o) references osoby(id_o),
+    -> foreign key(id_t) references telefony(id_t))
+    -> engine = innodb
+    -> default character set utf8 collate utf8_unicode_ci;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> desc teos;
++-------+---------------------+------+-----+---------+----------------+
+| Field | Type                | Null | Key | Default | Extra          |
++-------+---------------------+------+-----+---------+----------------+
+| id_to | tinyint(3) unsigned | NO   | PRI | NULL    | auto_increment |
+| id_o  | tinyint(3) unsigned | NO   | MUL | NULL    |                |
+| id_t  | tinyint(3) unsigned | NO   | MUL | NULL    |                |
++-------+---------------------+------+-----+---------+----------------+
+3 rows in set (0.02 sec)
+
+mysql> show tables;
++------------------+
+| Tables_in_ludzie |
++------------------+
+| osoby            |
+| telefony         |
+| teos             |
++------------------+
+3 rows in set (0.00 sec)
+
+mysql> select * from osoby;
+Empty set (0.00 sec)
+
+mysql> insert into telefony
+    -> (id_t, numer, typ, operator)
+    -> values
+    -> (1,"374284084","komórkowy","play");
+Query OK, 1 row affected (0.02 sec)
+
+mysql> select * from osoby;
+Empty set (0.00 sec)
+
+mysql> select * from telefony;
++------+-----------+-----------+----------+
+| id_t | numer     | typ       | operator |
++------+-----------+-----------+----------+
+|    1 | 374284084 | komórkowy | play     |
++------+-----------+-----------+----------+
+1 row in set (0.00 sec)
+
+mysql> insert telefony
+    -> (typ,id_t,numer,operator)
+    -> value
+    -> ("stacjonarny",2,532767865786867867876643789,"heyah");
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+mysql> select * from telefony;
++------+-----------+-------------+----------+
+| id_t | numer     | typ         | operator |
++------+-----------+-------------+----------+
+|    1 | 374284084 | komórkowy   | play     |
+|    2 | 532767865 | stacjonarny | heyah    |
++------+-----------+-------------+----------+
+2 rows in set (0.00 sec)
+
+mysql> insert telefony
+    -> value
+    -> (3,567346234,,"play");
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"play")' at line 3
+mysql> insert telefony
+    -> value
+    -> (3,567346234,"komórkowy","play");
+Query OK, 1 row affected (0.00 sec)
+
+mysql> select * from telefony;
++------+-----------+-------------+----------+
+| id_t | numer     | typ         | operator |
++------+-----------+-------------+----------+
+|    1 | 374284084 | komórkowy   | play     |
+|    2 | 532767865 | stacjonarny | heyah    |
+|    3 | 567346234 | komórkowy   | play     |
++------+-----------+-------------+----------+
+3 rows in set (0.00 sec)
+
+mysql> insert telefony
+    -> (numer, operator)
+    -> value
+    -> (646346356,"tu_biedronka"),
+    -> (245796356,"tu_biedronka"),
+    -> (666777888,"heyah");
+Query OK, 3 rows affected, 2 warnings (0.00 sec)
+Records: 3  Duplicates: 0  Warnings: 2
+
+mysql> select * from telefony;
++------+-----------+-------------+----------+
+| id_t | numer     | typ         | operator |
++------+-----------+-------------+----------+
+|    1 | 374284084 | komórkowy   | play     |
+|    2 | 532767865 | stacjonarny | heyah    |
+|    3 | 567346234 | komórkowy   | play     |
+|    4 | 646346356 | komórkowy   |          |
+|    5 | 245796356 | komórkowy   |          |
+|    6 | 666777888 | komórkowy   | heyah    |
++------+-----------+-------------+----------+
+6 rows in set (0.02 sec)
+
+mysql> insert osoby
+    -> value
+    -> (1,"Ola","Kot",23,"Kêdzierzyn-KoŸle",
+    -> (2,"Remek","Drob",20,"Gliwice",
+    -> (3,"Robert","Nowak",21,"Gliwice",
+    -> (4,"Arek","Nowak",21,"Katowice",
+    -> (5,"Arek","Kowalski",20,"Sosnowiec",
+    -> (6,"Janusz","Pawlacz",21,"Warszawa";
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8
+mysql> insert osoby
+    -> value
+    ->
+    ->
+    -> (1,"Ola","Kot",23,"Kêdzierzyn-KoŸle"),
+    -> (2,"Remek","Drob",20,"Gliwice"),
+    -> (3,"Robert","Nowak",21,"Gliwice"),
+    -> (4,"Arek","Nowak",21,"Katowice"),
+    -> (5,"Arek","Kowalski",20,"Sosnowiec"),
+    -> (6,"Janusz","Pawlacz",21,"Warszawa");
+Query OK, 6 rows affected (0.00 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+mysql> select * from osoby;
++------+--------+----------+------+------------------+
+| id_o | imie   | nazwisko | wiek | miasto           |
++------+--------+----------+------+------------------+
+|    1 | Ola    | Kot      |   23 | Kêdzierzyn-KoŸle |
+|    2 | Remek  | Drob     |   20 | Gliwice          |
+|    3 | Robert | Nowak    |   21 | Gliwice          |
+|    4 | Arek   | Nowak    |   21 | Katowice         |
+|    5 | Arek   | Kowalski |   20 | Sosnowiec        |
+|    6 | Janusz | Pawlacz  |   21 | Warszawa         |
++------+--------+----------+------+------------------+
+6 rows in set (0.00 sec)
+
+mysql> insert teos
+    -> value
+    -> (1,1,3),
+    -> (2,1,5),
+    -> (3,2,5),
+    -> (4,3,6),
+    -> (5,4,1),
+    -> (6,4,2),
+    -> (7,5,4);
+Query OK, 7 rows affected (0.00 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+mysql> select * from teos;
++-------+------+------+
+| id_to | id_o | id_t |
++-------+------+------+
+|     1 |    1 |    3 |
+|     2 |    1 |    5 |
+|     3 |    2 |    5 |
+|     4 |    3 |    6 |
+|     5 |    4 |    1 |
+|     6 |    4 |    2 |
+|     7 |    5 |    4 |
++-------+------+------+
+7 rows in set (0.00 sec)
+
+mysql>

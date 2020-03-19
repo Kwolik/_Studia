@@ -1,0 +1,11 @@
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.exe
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.deps.json
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.runtimeconfig.json
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.runtimeconfig.dev.json
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.dll
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\bin\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.pdb
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\obj\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.AssemblyInfoInputs.cache
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\obj\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.AssemblyInfo.cs
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\obj\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.dll
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\obj\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.pdb
+D:\_Studia\Algorytmy\Alg2\Priority_Queue\obj\Debug\netcoreapp3.1\2_Kolejka_z_priorytetem.csprojAssemblyReference.cache

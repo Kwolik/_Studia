@@ -1,0 +1,41 @@
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\bin\Debug\Programowanie.exe.config
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\bin\Debug\Programowanie.exe
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\bin\Debug\Programowanie.pdb
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\obj\Debug\Programowanie.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\obj\Debug\Programowanie.exe
+C:\Users\student\Desktop\Programowanie\Programowanie\Programowanie\obj\Debug\Programowanie.pdb
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\Programowanie.exe.config
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\Programowanie.exe
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\Programowanie.pdb
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\obj\Debug\Programowanie.csprojAssemblyReference.cache
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\obj\Debug\Programowanie.exe
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\obj\Debug\Programowanie.pdb
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.AWT.WinForms.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.Runtime.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\bin\Debug\IKVM.Runtime.JNI.dll
+D:\_Studia\Systemy Sztucznej inteligencji\Programowanie\Programowanie\obj\Debug\Programowanie.csproj.CopyComplete
